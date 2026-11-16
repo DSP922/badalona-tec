@@ -6,3 +6,9 @@ header {
     padding: 10px 15px;
     gap: 20px;
 }
+a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+}
