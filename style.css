@@ -7,7 +7,7 @@ header {
     gap: 20px;
 }
 a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     margin: 10px;
     padding: 10px;
@@ -20,6 +20,40 @@ nav {
     margin-left: auto;
 }
 #inici {
-    background-color: #2196ed;
+    background-color: #1d93ec;
     border-radius: 5px; 
+}
+h1{
+    color: rgb(5, 5, 177);
+}
+p{
+    color: #000000;
+}
+#texto1{
+    color: white;
+}
+footer{
+    background-color: #2f689e;
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    gap: 20px;
+}
+#ajuntament{
+    display: flex;
+    margin-right: auto;
+}
+#correu{
+    display: flex;
+    margin-left: auto;
+}
+main{
+    display: block;
+}
+img{
+    display: flex;
+}
+.img-h3{
+    display: flex;
+    background-color: #3b78b1;
 }
