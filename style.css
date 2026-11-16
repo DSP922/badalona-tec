@@ -12,3 +12,14 @@ a {
     margin: 10px;
     padding: 10px;
 }
+body {
+    margin: 0;
+    font-family: Arial;
+}
+nav {
+    margin-left: auto;
+}
+#inici {
+    background-color: #2196ed;
+    border-radius: 5px; 
+}
