@@ -1,5 +1,8 @@
-.header{
-    background-color: #2a5b8b;
-    font-family: Arial, sans-serif;
+header {
+    background-color: #064580;
+    color: white;
     display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    gap: 20px;
 }
